@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "379345266134",
+    "project_id": "task-manager-9ad5f",
+    "storage_bucket": "task-manager-9ad5f.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:379345266134:android:6f7df6bb733648e873b077",
+        "android_client_info": {
+          "package_name": "in.vikins.taskmanager"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "379345266134-id4j95ro0k2jmqhf5eb7a7inuolfmqqr.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB_nUmwjpK5K9j50uKD4Xndf-KhhD_DFRA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "379345266134-id4j95ro0k2jmqhf5eb7a7inuolfmqqr.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
