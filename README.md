@@ -25,7 +25,7 @@ In Task Manager Following Technologies are Used:
 
 ## Installation
 
-[![N|Solid](https://storage.googleapis.com/gweb-uniblog-publish-prod/images/HeroHomepage_2880x1200.max-100x100.jpg)](https://github.com/shubhasai/TaskManager/raw/master/TaskManager.apk)
+[![N|Solid](https://storage.googleapis.com/gweb-uniblog-publish-prod/images/HeroHomepage_2880x1200.max-100x100.jpg)](https://github.com/shubhasai/Task-Manager/raw/master/Task%20Manager.apk)
 
 Click The Above Button To Download
 
