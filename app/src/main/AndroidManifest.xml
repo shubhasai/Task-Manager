@@ -10,7 +10,7 @@
         android:roundIcon="@mipmap/ic_launchericon_round"
         android:supportsRtl="true"
         android:theme="@style/Theme.TaskManager"
-        tools:replace="android:theme,android:icon,android:roundIcon">
+        tools:replace="android:theme,android:icon,android:roundIcon,android:allowBackup">
         <activity
             android:name=".SAuthentication"
             android:exported="true" />
