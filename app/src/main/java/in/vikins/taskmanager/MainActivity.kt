@@ -61,13 +61,12 @@ class MainActivity : AppCompatActivity(),taskadapter.taskItemClicked {
         eventchangelistener(user_id)
 
         TempTask = arrayListOf()
-        binding.serchview.setOnQueryTextListener(object:androidx.appcompat.widget.SearchView.OnQueryTextListener{
+        binding.serchview.setOnQueryTextListener(object:SearchView.OnQueryTextListener{
             override fun onQueryTextSubmit(query: String?): Boolean {
                 queryresultfinal(query)
                 Log.d("searcherror","${query}")
                 return true
             }
-
             override fun onQueryTextChange(newText: String?): Boolean {
                 Log.d("searcherror","${newText}")
                 queryresult(newText)

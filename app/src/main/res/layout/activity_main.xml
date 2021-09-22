@@ -20,8 +20,8 @@
         android:textSize="27sp"
         android:textStyle="bold" />
 
-    <androidx.appcompat.widget.SearchView
-        style="@style/SearchViewStyle"
+    <SearchView
+        android:searchIcon="@drawable/ic_search"
         android:id="@+id/serchview"
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
